@@ -17,6 +17,10 @@ description=
 description=[h3]There are a lot of features to come![/h3]
 description=Some like, getting a peak multiplier based on the amount of items transfered in one day, getting restarted each day. This peak would grow and go down once the peak is reached, so it's not OP.
 description=Also you would loose XP if you don't "Train" your skill after some time.
+<<<<<<< Updated upstream
 description=And more...
+=======
+description=And more...
+>>>>>>> Stashed changes
 tags=Build 41;Multiplayer;Traits
 visibility=public

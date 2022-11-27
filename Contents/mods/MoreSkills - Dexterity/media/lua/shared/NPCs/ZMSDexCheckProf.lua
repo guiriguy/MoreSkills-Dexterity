@@ -16,3 +16,4 @@ MSDexCheck.BasicLoad = function()
 end
 
 Events.OnGameBoot.Add(MSDexCheck.BasicLoad)
+Events.OnCreateLivingCharacter.Add(MSDexCheck.BasicLoad)

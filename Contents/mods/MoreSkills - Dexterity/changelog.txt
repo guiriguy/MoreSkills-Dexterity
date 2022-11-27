@@ -1,5 +1,9 @@
 Unstable changes:
-V0.1.1:
+V0.1.2:
+
+ - Added a different approach to leveling, now you gain an XP Multiplier, each day, based on the amount of weight moved. Peaking at 1000 kilos, once this is reached, it will go down as a prevention to exploit the multiplier, resetting each day.
+ - Fixed the issue that when your character dies, you no longer have the base 3 levels of Dexterity.
+ - Reduced the gain of XP per weight, to balance the XP multiplier. Now each kilo will give you 0.25 XP, if the destination container is the floor, otherwise it will be 1xp per kilo.
 
 TODO:
 

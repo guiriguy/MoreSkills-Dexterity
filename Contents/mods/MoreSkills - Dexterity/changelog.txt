@@ -1,14 +1,6 @@
 Unstable changes:
-V0.2.6:
-    - Fixed the calling of player to work in MP
+V0.1.1:
 
 TODO:
-    - Check the CheckRegNum to not get active while you are doing exercise. (Not working as intended)
-    - Check to modify the MST addon when Prodigy from Dynamic traits is added
-    - Add Dynamic Traits to "compatibility"
-    - Add Realistic Growth to the XP base gain
-    - Revisar los números recibidos
 
 Possible features:
-    - Affect Sprint and agility based on the Fitness and Strength.
-    - The lower the regularity of both, the higher the loss of XP in both (using CheckRegNum)

@@ -4,5 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="zdoc-lua-41.78.12" level="application" />
+    <orderEntry type="library" exported="" name="zomboid-41.78.12" level="application" />
   </component>
 </module>

@@ -1,4 +1,4 @@
-# MoreSkills-DexterityThis is a DEV Version!
+This is a DEV Version!
 
 There can be incompatibilities if the code modifies the ISInventoryTranferAction without recalling the vanilla code.
 

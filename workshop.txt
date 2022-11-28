@@ -8,19 +8,20 @@ description=
 description=[H3] What does this mod do?[/h3]
 description=Dexerity is the trait that allows you to transfer items quicker. The opposite Trait is All Thumbs, making you transfer much slower.
 description=
-description=I had the idea to convert this into a skill. So the basic player would not have All thumbs (level 3 of dexterity). FYI, you must restart the game, once you subscribe to it (if you are in the game).
+description=I had the idea to convert this into a skill. So the basic player would not have All thumbs (level 3 of dexterity).
 description=
-description=The more objects you move, the more XP you get. Each unit of weight is equal to 1 XP. As for now when ever you are not throwing things to the floor, the timer is x4 times in vanilla, so each time you are not throwing anything at the floor it would give you x4 times the weight of the object.
+description=[quote]
+description=Since v0.1.2:
+description= - The amount of XP when throwing things to the floor will be 0.25xp per kilo. If you are moving from/to other containers you will gain 1xp per kilo.
+description= - As a antiexploid method, now the xp will gain a multiplier based on the amout of weight moved that day. At level 5 you will gain max of 7,5 as a multiplier, once you have moved 1000 kilos. Once this peak is reached, the multiplier will go gradually down until you have moved 2000 kilos. After that it will be base XP (1xp per kilo moved).-
+description= - Now when you die, you will get the intended, base 3 levels of Dexterity, unless you choose as Trait All Thumbs or Dextrous.
 description=
-description=These numbers might differ, and will give the ability to choose your own numbers once I get the mod to a state I like.
+description=P.S: These numbers might differ, and will give the ability to choose your own numbers once I get the mod to a state I like.[/quote]
+description=
 description=
 description=[h3]There are a lot of features to come![/h3]
-description=Some like, getting a peak multiplier based on the amount of items transfered in one day, getting restarted each day. This peak would grow and go down once the peak is reached, so it's not OP.
+description=[spoiler][strike]Gaining a peak XP multiplier based on the amount of weight moved each day.[/strike][/spoiler]
 description=Also you would loose XP if you don't "Train" your skill after some time.
-<<<<<<< Updated upstream
-description=And more...
-=======
 description=And more...
->>>>>>> Stashed changes
 tags=Build 41;Multiplayer;Traits
 visibility=public

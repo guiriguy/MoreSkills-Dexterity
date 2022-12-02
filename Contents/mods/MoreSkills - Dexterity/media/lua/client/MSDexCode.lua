@@ -43,6 +43,9 @@ MSDexterity.GetTime = function(player,time)
     return time
 end
 MSDexterity.giveXP = function(player, weight, container)
+    if weight < 0 then
+        weight = weight * -1
+    end
     local tWeight = player:getModData().MSDexWeightToday
     if not tWeight then
         player:getModData().MSDexWeightToday = 0
